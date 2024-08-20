@@ -11,4 +11,4 @@ After:
 ![after.png](.github/images/after.png)
 
 ## Contact
-If you encounter any issues, please report them on the [issue tracker](https://github.com/FlorianMichael/EnZasRenderGlitchPatchModForMinecraft/issues). If you just want to talk or need help with BaseProject feel free to join my [Discord](https://discord.gg/BwWhCHUKDf).
+If you encounter any issues, please report them on the [issue tracker](https://github.com/FlorianMichael/EnZasRenderGlitchPatchModForMinecraft/issues). If you just want to talk or need help with EnZasRenderGlitchPatchModForMinecraft feel free to join my [Discord](https://discord.gg/BwWhCHUKDf).
