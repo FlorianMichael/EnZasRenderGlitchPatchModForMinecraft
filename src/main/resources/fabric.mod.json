@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "id": "textdisplayfix",
+  "version": "${version}",
+  "name": "EnZasRenderGlitchPatchModForMinecraft",
+  "description": "${description}",
+  "authors": [
+    {
+      "name": "FlorianMichael/EnZaXD",
+      "contact": {
+        "email": "florian.michael07@gmail.com",
+        "homepage": "https://github.com/FlorianMichael"
+      }
+    }
+  ],
+  "contact": {
+    "homepage": "https://florianmichael.de/",
+    "sources": "https://github.com/FlorianMichael/ViaFabricPlus",
+    "issues": "https://github.com/FlorianMichael/ViaFabricPlus/issues",
+    "email": "florian.michael07@gmail.com"
+  },
+  "license": "GPL-v3",
+  "icon": "assets/textdisplayfix/icon.png",
+  "environment": "client",
+  "mixins": [
+    "textdisplayfix.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "minecraft": "${mcVersion}",
+    "java": ">=21"
+  }
+}
