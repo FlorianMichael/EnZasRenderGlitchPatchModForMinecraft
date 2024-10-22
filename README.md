@@ -1,5 +1,7 @@
 # EnZasRenderGlitchPatchModForMinecraft
 
+## Mojang has fixed the issue in Minecraft versions 1.21.2+
+
 This mod fixes the height of text display entities being 1 pixel too high then it should be.
 
 Download the mod at [modrinth](https://modrinth.com/mod/enzasrenderglitchpatchmodforminecraft) or via the [Releases selection](https://github.com/FlorianMichael/EnZasRenderGlitchPatchModForMinecraft/releases)
